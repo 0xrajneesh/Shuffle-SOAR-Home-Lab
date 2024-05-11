@@ -1,6 +1,6 @@
 # Installing Shuffle SOAR 
 
-## Step1: Make sure you have Docker and docker-compose installed, and that you have a minimum of 2Gb of RAM available.
+### Step1: Make sure you have Docker and docker-compose installed, and that you have a minimum of 2Gb of RAM available.
 ## Step2: Download Shuffle
 git clone https://github.com/Shuffle/Shuffle
 cd Shuffle
